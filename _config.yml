@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Glorious Grace" #"Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "DDDD" #"Your Name"
+description              : "Divide and Conquer" #"An amazing website."
 url                      : "https://limvo-777.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -58,7 +58,7 @@ algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  powered_by             : "DDDD" # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "DDDD"
+  avatar           : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlByIC%2FbtqxHTVisqa%2FOD41AOUfAnitJ0Gi5WzQgK%2Fimg.png&imgrefurl=https%3A%2F%2Fbomithecat.tistory.com%2F91&tbnid=7Oi8VC9BxnK4jM&vet=12ahUKEwjQ1bryybzuAhXyGKYKHTlwA5MQMygIegUIARC0AQ..i&docid=q-zL7-Twp3oiiM&w=564&h=691&q=%EA%B3%A0%EC%96%91%EC%9D%B4%EC%A7%A4&hl=ko&ved=2ahUKEwjQ1bryybzuAhXyGKYKHTlwA5MQMygIegUIARC0AQ" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Divide and Conquer"
+  location         : "Kor"
   email            :
   links:
     - label: "Email"
