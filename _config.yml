@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Glorious Grace" #"Site Title"
+title                    : "AF DEVOPS!" #"Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DDDD" #"Your Name"
@@ -55,9 +55,9 @@ search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  application_id         : "" # YOUR_APPLICATION_ID
+  index_name             : "" # YOUR_INDEX_NAME
+  search_only_api_key    : "" # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : "DDDD" # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name             : "DDDD"
-  avatar           : "C:/Users/user/Downloads/images.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/mnt/c/Users/user/Downloads/images.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Divide and Conquer"
-  location         : "Kor"
+  location         : "KOR"
   email            :
   links:
     - label: "Email"
